@@ -1,3 +1,2 @@
-# booksnap
 # Demo
 
